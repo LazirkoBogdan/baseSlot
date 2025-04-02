@@ -1,0 +1,121 @@
+{
+  "frames": {
+    "Banance_bg": {
+      "frame": { "x": 2344, "y": 1, "w": 634, "h": 186 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 19, "y": 23, "w": 634, "h": 186 },
+      "sourceSize": { "w": 680, "h": 235 }
+    },
+    "bg": {
+      "frame": { "x": 1, "y": 1, "w": 1024, "h": 1024 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+      "sourceSize": { "w": 1024, "h": 1024 }
+    },
+    "bunny": {
+      "frame": { "x": 2344, "y": 637, "w": 26, "h": 37 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 26, "h": 37 },
+      "sourceSize": { "w": 26, "h": 37 }
+    },
+    "loader": {
+      "frame": { "x": 1027, "y": 1, "w": 1024, "h": 1024 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+      "sourceSize": { "w": 1024, "h": 1024 }
+    },
+    "logo": {
+      "frame": { "x": 2053, "y": 1, "w": 735, "h": 289 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 735, "h": 289 },
+      "sourceSize": { "w": 735, "h": 289 }
+    },
+    "PLAY": {
+      "frame": { "x": 2451, "y": 637, "w": 178, "h": 178 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 178, "h": 178 },
+      "sourceSize": { "w": 185, "h": 185 }
+    },
+    "PLAY_DISABLED": {
+      "frame": { "x": 2451, "y": 817, "w": 178, "h": 178 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 3, "y": 3, "w": 178, "h": 178 },
+      "sourceSize": { "w": 185, "h": 185 }
+    },
+    "REEL": {
+      "frame": { "x": 2053, "y": 738, "w": 140, "h": 396 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 140, "h": 396 },
+      "sourceSize": { "w": 140, "h": 396 }
+    },
+    "SYM01": {
+      "frame": { "x": 2053, "y": 880, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "SYM02": {
+      "frame": { "x": 2183, "y": 880, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "SYM03": {
+      "frame": { "x": 2532, "y": 391, "w": 128, "h": 126 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 126 },
+      "sourceSize": { "w": 128, "h": 126 }
+    },
+    "SYM04": {
+      "frame": { "x": 2313, "y": 880, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "SYM05": {
+      "frame": { "x": 2532, "y": 1, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "SYM06": {
+      "frame": { "x": 2532, "y": 131, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    },
+    "WIN_BG": {
+      "frame": { "x": 2532, "y": 261, "w": 128, "h": 128 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+      "sourceSize": { "w": 128, "h": 128 }
+    }
+  },
+  "animations": {
+    "SYM": ["SYM01", "SYM02", "SYM03", "SYM04", "SYM05", "SYM06"]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.1",
+    "image": "game-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 2661, "h": 1026 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:b4426118c632caf070a89d283dd3fb37:77e2e3f409ecaa6f1fcbffa10ba53c82:38199ca19f82add9c84e07ddaa08f6e1$"
+  }
+}

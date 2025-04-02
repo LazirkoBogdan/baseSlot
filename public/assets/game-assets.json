@@ -1,0 +1,11 @@
+{
+  "id": "gameAssets",
+  "bg": [],
+  "splash": [],
+  "game": [
+    "public/assets/atlas/game/game-0.json"
+  ],
+  "init": [],
+  "svg": [],
+  "fonts": []
+}

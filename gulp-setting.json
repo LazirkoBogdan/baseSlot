@@ -1,0 +1,20 @@
+{
+  "gameName": "slot",
+  "atlas": {
+    "typeJPG": ["init", "bg"],
+    "atlasFolderPath": "public/assets/atlas",
+    "imageFolderPath": "public/assets/image"
+  },
+  "assets": {
+    "id": "gameAssets",
+    "gameAssetsPath": "public/assets",
+    "staticPath": "public/assets",
+    "assetsSections": ["bg", "splash", "game", "init", "svg"],
+    "ignore": ["config", "translation", "image", "audiosprites", "sounds"],
+    "outConfig": "public/assets/game-assets.json"
+  },
+  "animation": {
+    "inputDir": "app/src/static/game/animation",
+    "outputDir": "app/src/static/game/animation"
+  }
+}
