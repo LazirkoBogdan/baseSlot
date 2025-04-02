@@ -3,7 +3,6 @@ export class ReelStripManager {
   private reelStrip: string[] = [];
   private position: number = 0;
 
-  // Публічний метод для отримання єдиного екземпляру
   public static getInstance(): ReelStripManager {
     if (!ReelStripManager.instance) {
       ReelStripManager.instance = new ReelStripManager();
@@ -11,7 +10,6 @@ export class ReelStripManager {
     return ReelStripManager.instance;
   }
 
-  // Ініціалізація стрічки (разово або якщо треба змінити)
   public initReelStrip(strip: string[]): void {
     this.reelStrip = strip;
     this.position = 0;
